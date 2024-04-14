@@ -7,7 +7,7 @@ export default function Home() {
         src="https://my.spline.design/hoverscrolleffect-a73790351d27484a731e0a887d97dcbb/"
         frameBorder="0"
         width="100%"
-        height="100%"
+        height="600px"
       ></iframe>
     </main>
   )
