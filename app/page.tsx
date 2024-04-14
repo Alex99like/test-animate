@@ -9,6 +9,80 @@ export default function Home() {
         width="100%"
         height="600px"
       ></iframe>
+      <div className="flex flex-col gap-8">
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, quos
+          molestias iusto ex aspernatur voluptate culpa quam. Dolores fuga quos
+          placeat nostrum suscipit voluptates velit ea reprehenderit quas,
+          obcaecati qui?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, quos
+          molestias iusto ex aspernatur voluptate culpa quam. Dolores fuga quos
+          placeat nostrum suscipit voluptates velit ea reprehenderit quas,
+          obcaecati qui?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, quos
+          molestias iusto ex aspernatur voluptate culpa quam. Dolores fuga quos
+          placeat nostrum suscipit voluptates velit ea reprehenderit quas,
+          obcaecati qui?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, quos
+          molestias iusto ex aspernatur voluptate culpa quam. Dolores fuga quos
+          placeat nostrum suscipit voluptates velit ea reprehenderit quas,
+          obcaecati qui?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, quos
+          molestias iusto ex aspernatur voluptate culpa quam. Dolores fuga quos
+          placeat nostrum suscipit voluptates velit ea reprehenderit quas,
+          obcaecati qui?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, quos
+          molestias iusto ex aspernatur voluptate culpa quam. Dolores fuga quos
+          placeat nostrum suscipit voluptates velit ea reprehenderit quas,
+          obcaecati qui?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, quos
+          molestias iusto ex aspernatur voluptate culpa quam. Dolores fuga quos
+          placeat nostrum suscipit voluptates velit ea reprehenderit quas,
+          obcaecati qui?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, quos
+          molestias iusto ex aspernatur voluptate culpa quam. Dolores fuga quos
+          placeat nostrum suscipit voluptates velit ea reprehenderit quas,
+          obcaecati qui?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, quos
+          molestias iusto ex aspernatur voluptate culpa quam. Dolores fuga quos
+          placeat nostrum suscipit voluptates velit ea reprehenderit quas,
+          obcaecati qui?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, quos
+          molestias iusto ex aspernatur voluptate culpa quam. Dolores fuga quos
+          placeat nostrum suscipit voluptates velit ea reprehenderit quas,
+          obcaecati qui?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, quos
+          molestias iusto ex aspernatur voluptate culpa quam. Dolores fuga quos
+          placeat nostrum suscipit voluptates velit ea reprehenderit quas,
+          obcaecati qui?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, quos
+          molestias iusto ex aspernatur voluptate culpa quam. Dolores fuga quos
+          placeat nostrum suscipit voluptates velit ea reprehenderit quas,
+          obcaecati qui?
+        </p>
+      </div>
     </main>
   )
 }
